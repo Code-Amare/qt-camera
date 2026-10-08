@@ -26,7 +26,3 @@ python camera.py
 ```
 
 Captured images are saved in the `captured-images/` directory.
-
-## License
-
-MIT
